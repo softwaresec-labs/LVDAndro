@@ -1,6 +1,6 @@
 # LVDAndro (Labelled Vulnerability Dataset on Android Source Code)
 
-Version 1.0 contains datasets generated using Mobile Security Framework (MobSF) and Quick Android Review Kit (QARK) scanners.
+Each version contains datasets generated using Mobile Security Framework (MobSF) and Quick Android Review Kit (QARK) scanners.
 
 There are 9 unprocessed datasets : 
 * LVDAndro_APKs_MobSF_Unprocessed Dataset
