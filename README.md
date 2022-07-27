@@ -13,18 +13,14 @@ There are 9 unprocessed datasets :
 * LVDAndro_All_Combined_Unprocessed Dataset
 
 There are 9 processed datasets : 
-* LVDAndro_APKs_MobSF_Unprocessed Dataset
-* LVDAndro_APKs_Qark_Unprocessed Dataset
-* LVDAndro_APKs_Combined_Unprocessed Dataset
-* LVDAndro_SourceFiles_MobSF_Unprocessed Dataset
-* LVDAndro_SourceFiles_Qark_Unprocessed Dataset
-* LVDAndro_All_MobSF_Unprocessed Dataset
-* LVDAndro_All_Qark_Unprocessed Dataset
-* LVDAndro_All_Combined_Unprocessed Dataset
+* LVDAndro_APKs_MobSF_Processed Dataset
+* LVDAndro_APKs_Qark_Processed Dataset
+* LVDAndro_APKs_Combined_Processed Dataset
+* LVDAndro_SourceFiles_MobSF_Processed Dataset
+* LVDAndro_SourceFiles_Qark_Processed Dataset
+* LVDAndro_All_MobSF_Processed Dataset
+* LVDAndro_All_Qark_Processed Dataset
+* LVDAndro_All_Combined_Processed Dataset
 
-Binary Classification results when training various ML algorithms for detecting Android Source Code Vulnerabilities:
-![image](https://user-images.githubusercontent.com/102326773/181255447-2145cd31-dd4b-48a9-a432-bbacc22fd082.png)
-
-Multi-class Classification results when training various ML algorithms for detecting Android Source Code Vulnerabilities:
-![image](https://user-images.githubusercontent.com/102326773/181255947-610bf5e1-d637-482c-9444-eee569d3b5ac.png)
+## The model trained with Extreme Gradient Boosting achieved the highest F1-Score of 0.95 for binary classification, while the F1-Score of 0.91 for CWE-based multi-class classification with LVDAndro_APKs_Combined_Processed Dataset.
 
