@@ -25,5 +25,5 @@ There are 9 processed datasets :
 * LVDAndro_All_Qark_Processed Dataset
 * LVDAndro_All_Combined_Processed Dataset
 
-## The model trained with Extreme Gradient Boosting achieved the highest F1-Score of 0.95 for binary classification, while the F1-Score of 0.91 for CWE-based multi-class classification with LVDAndro_APKs_Combined_Processed Dataset.
+## The model trained with Extreme Gradient Boosting achieved F1-Score of 0.95 for binary classification, while F1-Score of 0.91 for CWE-based multi-class classification with LVDAndro_APKs_Combined_Processed Dataset.
 
