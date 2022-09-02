@@ -1,0 +1,46 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  LVDAndro : Labelled Vulnerability Dataset on
+  Android Source Code
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Janaka
+    family-names: Senanayake
+    email: j.senanayake@rgu.ac.uk
+    affiliation: >-
+      School of Computing, Robert Gordon University,
+      Aberdeen, UK
+    orcid: 'https://orcid.org/0000-0003-2278-8671'
+  - given-names: Harsha
+    family-names: Kalutarage
+    email: h.kalutarage@rgu.ac.uk
+    affiliation: >-
+      School of Computing, Robert Gordon University,
+      Aberdeen, UK
+    orcid: 'https://orcid.org/0000-0001-6430-9558'
+  - orcid: 'https://orcid.org/0000-0002-1146-1860'
+    given-names: Mhd Omar
+    family-names: Al-Kadri
+    affiliation: >-
+      School of Computing and Cyber Security,
+      Birmingham City University, England, UK
+  - given-names: Andrei
+    family-names: Petrovski
+    orcid: 'https://orcid.org/0000-0002-0987-2791'
+    affiliation: >-
+      School of Computing, Robert Gordon University,
+      Aberdeen, UK
+    email: a.petrovski@rgu.ac.uk
+  - affiliation: >-
+      School of Computing, Robert Gordon University,
+      Aberdeen, UK
+    given-names: Luca
+    family-names: Piras
+    email: l.piras@rgu.ac.uk
+    orcid: 'https://orcid.org/0000-0002-7530-4119'
