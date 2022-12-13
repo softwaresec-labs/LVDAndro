@@ -1,6 +1,6 @@
 # LVDAndro (Labelled Vulnerability Dataset on Android Source Code)
 
-The dataset can be downloaded from the Dataset directory. There are 3 dataset folders and each contains links to dataset stored in a Google Drive.
+The dataset can be downloaded from the Dataset directory. There are 3 dataset folders and each contains pdf files with important details and links to dataset stored in a Google Drive.
 
 Sub-datasets of LVDAndro
 
