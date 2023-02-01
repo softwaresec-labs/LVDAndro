@@ -1,5 +1,11 @@
 # LVDAndro (Labelled Vulnerability Dataset on Android Source Code)
 
+Many of the Android apps get published without appropriate security considerations, possibly due to not verifying code or not identifying vulnerabilities at the early stages of development. 
+
+This can be overcome by using an AI based model trained on a properlly labeled dataset. Hence, LVDAndro provides a dataset for Android source code vulnerabilities, labelled based on Common Weakness Enumeration (CWE). 
+
+The dataset has been generated using code lines scanned from real-world Android apps containing a large amount of distinct source code samples.
+
 The dataset can be downloaded from the Dataset directory. There are 3 dataset folders and each contains a readme file with important details and links to download dataset stored in a Google Drive.
 
 Sub-datasets of LVDAndro
