@@ -8,8 +8,8 @@ The dataset has been generated using code lines scanned from real-world Android 
 
 The dataset can be downloaded from the Dataset directory. There are 3 dataset folders and each contains a readme file with important details and links to download dataset stored in a Google Drive.
 
-If you are using this dataset in your research work, please cite as below:
-_**Senanayake, J.; Kalutarage, H.; Al-Kadri, M.; Piras, L. and Petrovski, A. (2023). Labelled Vulnerability Dataset on Android Source Code (LVDAndro) to Develop AI-Based Code Vulnerability Detection Models. In Proceedings of the 20th International Conference on Security and Cryptography - SECRYPT; ISBN 978-989-758-666-8; ISSN 2184-7711, SciTePress, pages 659-666. DOI: 10.5220/0012060400003555**_
+If you are using this dataset in your research work, please cite as:
+_**Senanayake, J.; Kalutarage, H.; Al-Kadri, M.; Piras, L. and Petrovski, A. (2023). Labelled Vulnerability Dataset on Android Source Code (LVDAndro) to Develop AI-Based Code Vulnerability Detection Models. In Proceedings of the 20th International Conference on Security and Cryptography - SECRYPT; ISBN 978-989-758-666-8; ISSN 2184-7711, SciTePress, pages 659-666. DOI: [10.5220/0012060400003555](https://doi.org/10.5220/0012060400003555)**_
 
 
 ## Sub-datasets of LVDAndro
